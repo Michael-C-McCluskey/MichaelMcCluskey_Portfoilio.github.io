@@ -1,2 +1,2 @@
-# MichaelMcCluskey_Portfoilio.github.io
+# MichaelMcCluskey_Portfolio.github.io
 My updated portfolio
